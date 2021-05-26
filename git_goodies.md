@@ -6,3 +6,6 @@
 
 **Find most recent ancestor**
 > git merge-base branch2 branch3
+
+**Git rebase upto commit b6fc9dad86d2843063cd69f346762c052459f162 from common ancestor**
+ > git rebase b6fc9dad86d2843063cd69f346762c052459f162
